@@ -1,0 +1,66 @@
+.col{
+    margin: auto;
+    padding: 50px;
+    position: right;
+
+}
+.sec2{
+    
+    color: darkblue;
+}
+.sec4{
+    text-align: left;
+    color: darkblue;
+   
+   background-size: cover;
+   padding: 40px 40px;
+   background-image: url(porschee\ white.jpg);
+   background-position: center;
+   height: 400px;
+
+}
+
+.inbox1{
+    background-color: lightskyblue;
+    padding: 40px 40px;
+    background-image: url(porschee\ white.jpg);
+    background-position: center;
+    background-size: cover;
+    color: black;
+
+    
+}
+.box1{
+    background-size: cover;
+    background-position: center;
+   
+}
+.h2{
+    text-align: center;
+}
+.button{
+    color: blue;
+}
+.sec1{
+    background-image: url(Porsche-Museum-26.webp);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px ;
+}
+.sec2{
+    background-image: url(porsche\ company.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 400px;
+}
+.sec5{
+    color: rgb(1, 1, 255);
+     background-image: url(porschee\ white.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px ;
+    text-align: center;
+}
+.box2{
+    margin-top: 300px;
+}
